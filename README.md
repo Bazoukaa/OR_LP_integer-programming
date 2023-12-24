@@ -20,3 +20,8 @@ To run the file, execute:
 ```bash
 python bonus_question.py
 ```
+
+```
+For course: IME 312  Operations Research
+Under Supervision of Prof. Islam Ali
+```
