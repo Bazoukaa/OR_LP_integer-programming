@@ -21,7 +21,5 @@ To run the file, execute:
 python bonus_question.py
 ```
 
-```
 For course: IME 312  Operations Research
 Under Supervision of Prof. Islam Ali
-```
